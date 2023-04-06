@@ -37,5 +37,5 @@ NumPy
 Matplotlib
 Scipy
 
-Usage
+### Usage
 To run the analysis, execute the Jupyter Notebook file (irfansencersenyurt.ipynb) in a Python environment with the required dependencies installed.
